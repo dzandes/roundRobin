@@ -1,8 +1,6 @@
 # roundRobin
 A Java-based Round Robin CPU simulator.
 
-A Java-based Round Robin CPU simulator.
-
 Entry is given through an "input.txt" file in the form of lines consisting of integers x,y,z.
 
 x: represents process ID
