@@ -9,4 +9,6 @@ y: arriving time of process to the CPU
 
 z: necessary processing time
 
+When there is no "input.txt" file to read, a random input is generated.
+
 After running the code(or the equivalent .jar file in case we create it), output is stored in the automatically generated "output.txt".
